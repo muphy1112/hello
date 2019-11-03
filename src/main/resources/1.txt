@@ -1,0 +1,41 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/2019期架构师视频文档.xlsx
+/Tom_VIP_20180927_如何写一手工整又漂亮的字.*
+/小泡播放器视频下载观看教程.mp4
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/录播视频/
+/工具/
+/小泡播放器(GPlayer)安装包/
+/新学员必看/
+/Python机器学习/
+/17期微服务专题*
+
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
